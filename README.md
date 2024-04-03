@@ -13,12 +13,12 @@ class SoftwareEngineer:
         self.interestedIn = "AI/ML"
         self.language_spoken = ["Kazakh", "Russian", "English"]
 
-    def say_hi(self):
+    def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = SoftwareEngineer()
-me.say_hi()
+me.say_hello()
 ```
 
 ## Technologies & Tools 🔧
