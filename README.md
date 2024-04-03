@@ -21,4 +21,4 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 🔧 Technologies & Tools
+## Technologies & Tools 🔧 
