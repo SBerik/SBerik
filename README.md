@@ -21,5 +21,3 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blogs
-
