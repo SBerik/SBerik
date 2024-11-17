@@ -5,12 +5,11 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class MachineLearningEngineer:
 
     def __init__(self):
         self.name = "Berik"
-        self.role = "Software Engineer"
-        self.interestedIn = "AI/ML"
+        self.role = "Machine Learning Engineer"
         self.language_spoken = ["Kazakh", "Russian", "English"]
 
     def say_hello(self):
