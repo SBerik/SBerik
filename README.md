@@ -16,7 +16,7 @@ class MachineLearningEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = MachineLearningEngineer()
 me.say_hello()
 ```
 
